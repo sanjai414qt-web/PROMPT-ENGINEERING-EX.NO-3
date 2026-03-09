@@ -114,6 +114,7 @@ Provide a table listing five programming languages, their paradigms, and one use
 
 **Prompt Output**
 AC vs DC Current Comparison
+
 ![Uploading ChatGPT Image Mar 9, 2026, 01_55_41 PM.png…]()
 
 **Goal**
