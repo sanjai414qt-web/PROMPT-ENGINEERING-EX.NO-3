@@ -193,7 +193,9 @@ Encourages memory recall
 
 Helps reinforce learning concepts
 
-# RESULT: The various types of Prompts are executed successfully with generated the report.
+# RESULT:
+
+The various types of Prompts are executed successfully with generated the report.
 Prompt Engineering plays an important role in effectively interacting with AI systems. Different prompting techniques help achieve different goals:
 Using the correct prompting method improves clarity, accuracy, and usefulness of AI-generated responses.
 
